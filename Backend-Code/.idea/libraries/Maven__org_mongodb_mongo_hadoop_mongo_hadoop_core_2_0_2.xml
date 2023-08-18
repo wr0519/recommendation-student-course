@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mongodb.mongo-hadoop:mongo-hadoop-core:2.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../software/profession/apache-maven-3.8.4/repo/org/mongodb/mongo-hadoop/mongo-hadoop-core/2.0.2/mongo-hadoop-core-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../software/profession/apache-maven-3.8.4/repo/org/mongodb/mongo-hadoop/mongo-hadoop-core/2.0.2/mongo-hadoop-core-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../software/profession/apache-maven-3.8.4/repo/org/mongodb/mongo-hadoop/mongo-hadoop-core/2.0.2/mongo-hadoop-core-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
